@@ -45,4 +45,4 @@ This project helped in learning how to play around with background images and aj
 
 ​
 
-[Live Link !]()
+[Live Link !](https://interior-design-pagee.netlify.app/)
